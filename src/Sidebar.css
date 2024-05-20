@@ -1,0 +1,25 @@
+.sidebar {
+  width: 200px;
+  height: 100vh;
+  background-color: #c1c8d2;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  position: fixed;
+}
+
+.sidebar a {
+  color: black;
+  text-decoration: none;
+  margin-bottom: 10px;
+  display: block;
+  padding: 10px;
+  font-size: 24px; /* Font size */
+  font-weight: bold; /* Increase font weight */
+}
+
+.sidebar a:hover {
+  background-color: #d8d9d9;
+  color: #0bd2f5;
+}
