@@ -1,6 +1,6 @@
 Absolutely, here's the README specifically tailored for the `simulation_client`:
 
-```markdown
+
 # simulation_client
 
 ## Overview
@@ -16,16 +16,17 @@ To install and run the simulation_client, follow these steps:
 2. Navigate to the project directory in your terminal.
 
 3. Install dependencies by running the command:
+
    ```
    npm install
    ```
 
-4. Start the client by running the command:
+5. Start the client by running the command:
    ```
    npm start
    ```
 
-5. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to access the simulation_client.
+6. Open your web browser and navigate to [http://localhost:3000](http://localhost:3000) to access the simulation_client.
 
 ## Usage
 
